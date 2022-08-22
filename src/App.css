@@ -42,10 +42,21 @@ th {
 
 
 
+tr {
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+}
+
+
+td {
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+}
+
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(0deg);  
   }
   to {
     transform: rotate(360deg);
